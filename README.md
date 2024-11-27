@@ -4,9 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Thi Huong</h1>  
 <h2 align="center">University of Economics - Technology for Industries</h2>  
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ThePioneerLifestyleExplorer)](https://github.com/ThePioneerLifestyleExplorer) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/ThePioneerLifestyleExplorer?tab=followers)
 
-I'm Nguyen Thi Huong! 
+👋 Code Like a Girl! 
 - <i>Currently:</i> Student at University of Economics Technology for Industries from Vietnam. 
 - <i>Favorites:</i> Coding & Design.
 
