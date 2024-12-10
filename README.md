@@ -12,8 +12,9 @@
 
 <h2>💻 About Me</h2>
 
-- 👩‍🎓 _Gillian Booth_ – is a passionate content creator and graphic designer - Since 2014, she has been blending her love for travel, blogging, and graphic design into unique creations that inspire and connect. Known for her expertise in family and office fashion, Gillian has a knack for crafting versatile outfits and personalized products that leave lasting impressions.
-- 💻 In 2020, Gillian took a leap forward by launching her online store, specializing in print-on-demand products such as custom apparel, thoughtful gifts, and home decor. Starting on platforms like Amazon and Etsy, she quickly grew her brand into the thriving TheFirstLifestyle Shop, which now boasts thousands of products and has sold over 5 million items to happy customers worldwide.
+- 👩‍🎓 _Gillian Booth_ – is a passionate content creator and graphic designer 💻💻💻
+- 🏷️ _Since 2014_, she has been blending her love for travel, blogging, and graphic design into unique creations that inspire and connect. Known for her expertise in family and office fashion, Gillian has a knack for crafting versatile outfits and personalized products that leave lasting impressions.
+- 🏷️ _In 2020_, Gillian took a leap forward by launching her online store, specializing in print-on-demand products such as custom apparel, thoughtful gifts, and home decor. Starting on platforms like Amazon and Etsy, she quickly grew her brand into the thriving __TheFirstLifestyle Shop__, which now boasts thousands of products and has sold over 5 million items to happy customers worldwide.
 - Beyond managing her business, Gillian remains an active voice in the community. She shares travel tips, fashion advice, and creative insights through her blog and engages with her audience on social media platforms like Reddit, Facebook, and Twitter.
 
 
@@ -22,10 +23,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/ThePioneerLifestyleExplorer/Demo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThePioneerLifestyleExplorer&repo=PyCalendly" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/ThePioneerLifestyleExplorer/Demo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThePioneerLifestyleExplorer&repo=CloudOrg-Simulator" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -40,9 +41,9 @@ __Check out my GitHub repository:__
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePioneerLifestyleExplorer" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThePioneerLifestyleExplorer" alt="WakaTime" />
   </p>
 </div>
 
@@ -51,7 +52,7 @@ __Check out my GitHub repository:__
 
 <h2> Let's go with me⚡:</h2>
 
-I'm living in CA 94305, United States. Outside Design Art, I love to read, enjoy music and explore nature outdoors. If you are around Texas, drop an email and let's catch-up over Coffee!
+I'm living in 3728 Sapphire St, Fort Worth, TX 76244. Outside Design Art, I love to read, enjoy music and explore nature outdoors. If you are around Texas, drop an email and let's catch-up over Coffee!
  
 - Check out my Blog: [https://gillianbooth.blogspot.com](https://gillianbooth.blogspot.com)
 - Know more about company us: [https://thefirstlifestyle.com/about-us](https://thefirstlifestyle.com/about-us)
@@ -66,7 +67,12 @@ I'm living in CA 94305, United States. Outside Design Art, I love to read, enjoy
 - Dribbble: [https://dribbble.com/gillianboothtfl00](https://dribbble.com/gillianboothtfl00)
 - Goodreads: [My Goodreads](https://www.goodreads.com/user/show/169680007-thepioneerlifestyleexplorer)
 
-Learn more about Gillian’s journey and discover her inspiring work at TheFirstLifestyle Shop!
+Learn more about Gillian’s journey and discover her inspiring work at __TheFirstLifestyle Shop__!
+📞 __Phone__: _[+1 (682) 892-4401](tel:+16828924401)_
+📩 __Email__: _[support@thefirstlifestyle.com](mailto:support@thefirstlifestyle.com)_
+🌐 __Website__: _[https://www.thefirstlifestyle.com](https://www.thefirstlifestyle.com)_
+📍 __Address__: _3912 Hanna Rose Ln, Fort Worth, TX 76244, USA_
+🏷️ __Hashtags__: _#TheFirstLifestyle #DisneyGifts #FamilyOutfits #GiftsForDad #GiftsForMom_
 
 <h2>📫 How to reach me:</h2>
 
