@@ -6,8 +6,9 @@
 <h2 align="center">a passionate content creator and graphic designer</h2>  
 
 👋 Design Art Like a Girl! 
-- <i>Currently:</i> a passionate content creator and graphic designer - Owner of TheFirstLifestyle Shop USA.
+- <i>Currently:</i> a passionate content creator and graphic designer - Owner of **[TheFirstLifestyle Shop in USA](https://thefirstlifestyle.com/shop)**.
 - <i>Favorites:</i> Fashion & Lifestyle.
+- <i>Feature collection:</i> [Unique Disney Gifts for Lovers](https://thefirstlifestyle.com/trending/disney-gifts).
 
 <h2>💻 About Me</h2>
 
