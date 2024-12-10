@@ -12,8 +12,9 @@
 
 <h2>💻 About Me</h2>
 
-- 👩‍🎓 _Gillian Booth_ – A proud student of **University of Economics**, deeply passionate about logic and the art of advanced programming algorithms.
-- 💻 With a love for solving complex problems, I strive to craft elegant and efficient code that turns ideas into reality. Exploring the world of technology one algorithm at a time!
+- 👩‍🎓 _Gillian Booth_ – is a passionate content creator and graphic designer - Since 2014, she has been blending her love for travel, blogging, and graphic design into unique creations that inspire and connect. Known for her expertise in family and office fashion, Gillian has a knack for crafting versatile outfits and personalized products that leave lasting impressions.
+- 💻 In 2020, Gillian took a leap forward by launching her online store, specializing in print-on-demand products such as custom apparel, thoughtful gifts, and home decor. Starting on platforms like Amazon and Etsy, she quickly grew her brand into the thriving TheFirstLifestyle Shop, which now boasts thousands of products and has sold over 5 million items to happy customers worldwide.
+- Beyond managing her business, Gillian remains an active voice in the community. She shares travel tips, fashion advice, and creative insights through her blog and engages with her audience on social media platforms like Reddit, Facebook, and Twitter.
 
 
 __Check out my GitHub repository:__
@@ -50,7 +51,7 @@ __Check out my GitHub repository:__
 
 <h2> Let's go with me⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+I'm living in CA 94305, United States. Outside Design Art, I love to read, enjoy music and explore nature outdoors. If you are around Texas, drop an email and let's catch-up over Coffee!
  
 - Check out my Blog: [https://gillianbooth.blogspot.com](https://gillianbooth.blogspot.com)
 - Know more about company us: [https://thefirstlifestyle.com/about-us](https://thefirstlifestyle.com/about-us)
@@ -63,8 +64,10 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 - Youtube: [My Youtube Channel](https://www.youtube.com/@GillianBoothTFL00)
 - 500px: [https://500px.com/p/gillianboothtfl00](https://500px.com/p/gillianboothtfl00)
 - Dribbble: [https://dribbble.com/gillianboothtfl00](https://dribbble.com/gillianboothtfl00)
-- Goodreads: [My Goodreads](https://www.goodreads.com/user/show/169680007-thepioneerlifestyleexplorer) 
+- Goodreads: [My Goodreads](https://www.goodreads.com/user/show/169680007-thepioneerlifestyleexplorer)
+
+Learn more about Gillian’s journey and discover her inspiring work at TheFirstLifestyle Shop!
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@ThePioneerLifestyleExplorer.com">![ConnectWith@ThePioneerLifestyleExplorer.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ThePioneerLifestyleExplorer/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:thepioneerlifestyleexplorer@gmail.com">![thepioneerlifestyleexplorer@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ThePioneerLifestyleExplorer/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
