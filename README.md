@@ -1,17 +1,17 @@
-![Banner_Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![Banner_Image](./thepioneerlifestyleexplorer - Gillian Booth 2.jpeg)
+<!-- <h2 align='center'>Gillian Booth @ thepioneerlifestyleexplorer</h2>
+<p align='center'><b>Stanford University at CA 94305, United States</b></p> -->
 
 <h1 align="center">Hi 👋, I'm Gillian Booth</h1>  
 <h2 align="center">a passionate content creator and graphic designer</h2>  
 
-👋 Code Like a Girl! 
-- <i>Currently:</i> a passionate content creator and graphic designer. 
+👋 Design Art Like a Girl! 
+- <i>Currently:</i> a passionate content creator and graphic designer - Owner of TheFirstLifestyle Shop USA.
 - <i>Favorites:</i> Fashion & Lifestyle.
 
 <h2>💻 About Me</h2>
 
-- 👩‍🎓 _Gillian Booth_ – A proud student of **University of Economics and Technical Industries**, deeply passionate about logic and the art of advanced programming algorithms.
+- 👩‍🎓 _Gillian Booth_ – A proud student of **University of Economics**, deeply passionate about logic and the art of advanced programming algorithms.
 - 💻 With a love for solving complex problems, I strive to craft elegant and efficient code that turns ideas into reality. Exploring the world of technology one algorithm at a time!
 
 
