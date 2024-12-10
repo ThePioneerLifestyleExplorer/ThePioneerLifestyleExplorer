@@ -1,4 +1,4 @@
-![Banner_Image](./thepioneerlifestyleexplorer - Gillian Booth 2.jpeg)
+![Banner_Image](./GillianBooth.jpeg)
 <!-- <h2 align='center'>Gillian Booth @ thepioneerlifestyleexplorer</h2>
 <p align='center'><b>Stanford University at CA 94305, United States</b></p> -->
 
