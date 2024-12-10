@@ -52,9 +52,18 @@ __Check out my GitHub repository:__
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://ThePioneerLifestyleExplorer.com](https://ThePioneerLifestyleExplorer.com)
-- Know more about me: [About ThePioneerLifestyleExplorer](https://ThePioneerLifestyleExplorer.com/pages/about)
-- Write to me: [ConnectWith@ThePioneerLifestyleExplorer.com](mailto:ConnectWith@ThePioneerLifestyleExplorer.com)
+- Check out my Blog: [https://gillianbooth.blogspot.com](https://gillianbooth.blogspot.com)
+- Know more about company us: [https://thefirstlifestyle.com/about-us](https://thefirstlifestyle.com/about-us)
+- Write to me: [thepioneerlifestyleexplorer@](mailto:thepioneerlifestyleexplorer@gmail.com)
+- Facebook: [My Facebook](https://www.facebook.com/profile.php?id=61569436230078)
+- Twitter: [My Twitter](https://x.com/GillianBoothTFL)
+- Pinterest: [My Pinterest](https://www.pinterest.com/gillianboothtfl00/)
+- Tiktok: [My Tiktok](https://www.tiktok.com/@gillianboothtfl00)
+- Medium: [My Medium Blog](https://medium.com/@thepioneerlifestyleexplorer)
+- Youtube: [My Youtube Channel](https://www.youtube.com/@GillianBoothTFL00)
+- 500px: [https://500px.com/p/gillianboothtfl00](https://500px.com/p/gillianboothtfl00)
+- Dribbble: [https://dribbble.com/gillianboothtfl00](https://dribbble.com/gillianboothtfl00)
+- Goodreads: [My Goodreads](https://www.goodreads.com/user/show/169680007-thepioneerlifestyleexplorer) 
 
 <h2>📫 How to reach me:</h2>
 
