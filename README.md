@@ -68,11 +68,11 @@ I'm living in 3728 Sapphire St, Fort Worth, TX 76244. Outside Design Art, I love
 - Goodreads: [My Goodreads](https://www.goodreads.com/user/show/169680007-thepioneerlifestyleexplorer)
 
 Learn more about Gillian’s journey and discover her inspiring work at __TheFirstLifestyle Shop__!
-📞 __Phone__: _[+1 (682) 892-4401](tel:+16828924401)_
-📩 __Email__: _[support@thefirstlifestyle.com](mailto:support@thefirstlifestyle.com)_
-🌐 __Website__: _[https://www.thefirstlifestyle.com](https://www.thefirstlifestyle.com)_
-📍 __Address__: _3912 Hanna Rose Ln, Fort Worth, TX 76244, USA_
-🏷️ __Hashtags__: _#TheFirstLifestyle #DisneyGifts #FamilyOutfits #GiftsForDad #GiftsForMom_
+- 📞 __Phone__: _[+1 (682) 892-4401](tel:+16828924401)_
+- 📩 __Email__: _[support@thefirstlifestyle.com](mailto:support@thefirstlifestyle.com)_
+- 🌐 __Website__: _[https://www.thefirstlifestyle.com](https://www.thefirstlifestyle.com)_
+- 📍 __Address__: _3912 Hanna Rose Ln, Fort Worth, TX 76244, USA_
+- 🏷️ __Hashtags__: _#TheFirstLifestyle #DisneyGifts #FamilyOutfits #GiftsForDad #GiftsForMom_
 
 <h2>📫 How to reach me:</h2>
 
